@@ -1,0 +1,5 @@
+@use "bootstrap/scss/bootstrap" as bootstrap with ($primary: #277b40);
+
+.btn {
+    color: bootstrap.$light !important;
+}
